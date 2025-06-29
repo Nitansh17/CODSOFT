@@ -1,4 +1,3 @@
-This is task-1 feature in my code
 A lightweight desktop application for task management, built with Python and Tkinter.
 
 ✨ Features
